@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352604598873",
+    "project_id": "yot-teacher",
+    "storage_bucket": "yot-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352604598873:android:ed98ae6e84fc67c881b748",
+        "android_client_info": {
+          "package_name": "com.yot.teacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352604598873-1thepaaqbbqijsseofecavet2ub31272.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9QBC14p8FMEoTN9bPu4X2N-WeCzp3Mv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352604598873-1thepaaqbbqijsseofecavet2ub31272.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
